@@ -1,11 +1,11 @@
 // UI logic
 
-import { journal } from './journal.js'
+import { journal } from './journal.js';
 
-//import './styles.css'
+import './styles.css';
 
 journal();
 
 $(document).ready(function() {
 
-}) 
+}); 
